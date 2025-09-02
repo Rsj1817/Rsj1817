@@ -22,3 +22,8 @@ Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación D
 [![](https://visitcount.itsvg.in/api?id=Rsj1817&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+
+<div align="Center">
