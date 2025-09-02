@@ -2,6 +2,8 @@
 Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ enfocado en desarrollo de aplicaciones. Me apasiona convertir ideas en software funcional y con buena experiencia de usuario. En mis proyectos aplico patrones JavaFX (con FXML), Maven y conexiones a bases de datos Oracle para implementar funcionalidades CRUD y lógica bien estructurada. Disfruto aprendiendo nuevos lenguajes y frameworks, optimizando la usabilidad y documentando mi código.  
 
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/887042069590335509) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:20243ds185@utez.edu.mx) 
 
