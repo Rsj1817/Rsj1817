@@ -1,3 +1,5 @@
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rigoberto Sanchez
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ enfocado en desarrollo de aplicaciones. Me apasiona convertir ideas en software funcional y con buena experiencia de usuario. En mis proyectos aplico patrones JavaFX (con FXML), Maven y conexiones a bases de datos Oracle para implementar funcionalidades CRUD y lógica bien estructurada. Disfruto aprendiendo nuevos lenguajes y frameworks, optimizando la usabilidad y documentando mi código.  
 
