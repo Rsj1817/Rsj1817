@@ -30,7 +30,7 @@ Soy un femboy sumiso, dispuesto a estar contigo, servirte y ser tu anime en la v
 <br /> <br/>
 <img src="https://i.scdn.co/image/ab67616d0000b27350064ca92d5f7d52be31242d" alt="Femboy rico" />
 <br /> <br />
-<img src="https://static.wikia.nocookie.net/lgbt/images/5/58/Femboy1.png/revision/latest?cb=20210817034157&path-prefix=es" alt="Trans" />
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
