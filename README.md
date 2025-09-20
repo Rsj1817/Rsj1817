@@ -3,6 +3,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ enfocado en desarrollo de aplicaciones. Me apasiona convertir ideas en software funcional y con buena experiencia de usuario. En mis proyectos aplico patrones JavaFX (con FXML), Maven y conexiones a bases de datos Oracle para implementar funcionalidades CRUD y lógica bien estructurada. Disfruto aprendiendo nuevos lenguajes y frameworks, optimizando la usabilidad y documentando mi código.  
 
+<br /><br /><br />
+Soy un femboy sumiso, dispuesto a estar contigo, servirte y ser tu anime en la vida real. 😋🍆🥵
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## 🌐 Socials:
@@ -23,6 +26,11 @@ Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación D
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rsj1817&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br /> <br/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350064ca92d5f7d52be31242d" alt="Femboy rico" />
+<br /> <br />
+<img src="https://static.wikia.nocookie.net/lgbt/images/5/58/Femboy1.png/revision/latest?cb=20210817034157&path-prefix=es" alt="Trans" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
