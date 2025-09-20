@@ -4,7 +4,6 @@
 Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ enfocado en desarrollo de aplicaciones. Me apasiona convertir ideas en software funcional y con buena experiencia de usuario. En mis proyectos aplico patrones JavaFX (con FXML), Maven y conexiones a bases de datos Oracle para implementar funcionalidades CRUD y lógica bien estructurada. Disfruto aprendiendo nuevos lenguajes y frameworks, optimizando la usabilidad y documentando mi código.  
 
 <br /><br /><br />
-Soy un femboy sumiso, dispuesto a estar contigo, servirte y ser tu anime en la vida real. 😋🍆🥵
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
