@@ -25,6 +25,10 @@ Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación D
 ---
 [![](https://visitcount.itsvg.in/api?id=Rsj1817&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="./images/Footer%20banner.png" alt="README footer" width="100%">
+</p>
+
 
 
 
