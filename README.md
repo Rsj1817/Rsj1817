@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/head.png" alt="README header" width="100%">
+</p>
+
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rigoberto Sanchez <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
