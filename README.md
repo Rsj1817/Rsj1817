@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/icegif-718.gif" width="100%" alt="Nyan Cat Banner">
+  <img src="./images/icegif-718.gif" width="100%" height="290" alt="Nyan Cat Banner">
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
