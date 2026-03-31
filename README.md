@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzcwejJ1OTA2Nmk0YzJuNjl5NDAxOHA1ajM1bTZwN2pnNnhqMXEyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="120px" alt="Tux GIF">
+  <img src="./images/icegif-718.gif" width="100%" alt="Nyan Cat Banner">
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
