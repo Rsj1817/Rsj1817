@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ enfocado en desarrollo de aplicaciones. Me apasiona convertir ideas en software funcional y con buena experiencia de usuario. En mis proyectos aplico patrones JavaFX (con FXML), Maven y conexiones a bases de datos Oracle para implementar funcionalidades CRUD y lógica bien estructurada. Disfruto aprendiendo nuevos lenguajes y frameworks, optimizando la usabilidad y documentando mi códig
 
-* 🌍  I'm based in Morelos
+
 * 🧠  I'm currently learning Java Swing
 
 <p align="left">
