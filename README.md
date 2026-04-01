@@ -46,7 +46,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Operating Systems & Terminal
-<p align="center"><img src="./images/ubuntu.png" alt="Ubuntu" width="48" height="48" style="margin: 4px;" /> <img src="./images/Bash_Logo_Colored.svg.png" alt="Bash" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="./images/ubuntu.png" alt="Ubuntu" width="48" height="48" style="margin: 4px;" /> <img src="./images/garuda-purple.svg" alt="Garuda Linux" width="48" height="48" style="margin: 4px;" /> <img src="./images/Manjaro-logo.svg.png" alt="Manjaro" width="48" height="48" style="margin: 4px;" /> <img src="./images/Bash_Logo_Colored.svg.png" alt="Bash" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
   <a href="https://github.com/Rsj1817">
