@@ -33,38 +33,38 @@
 > ## Programming Languages
 <p align="center">
   <img src="./images/Kotlin_Icon.png" alt="Kotlin" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
   <img src="./images/free-mariadb-icon-svg-download-png-226022.webp" alt="MariaDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## DevOps & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
+  <img src="./images/ext/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Operating Systems & Terminal
