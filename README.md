@@ -30,50 +30,34 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
+## Programming Languages
 <p align="center">
-  <img src="./images/Kotlin_Icon.png" alt="Kotlin" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=kotlin,js,java,csharp,c,dotnet&perline=15" alt="Programming Languages" />
 </p>
 
-> ## Frontend
+## Frontend
 <p align="center">
-  <img src="./images/ext/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=react,html,css" alt="Frontend" />
 </p>
 
-> ## Database
+## Database
 <p align="center">
-  <img src="./images/ext/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/free-mariadb-icon-svg-download-png-226022.webp" alt="MariaDB" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgres,mariadb,sqlserver&perline=15" alt="Database" />
 </p>
 
-> ## DevOps & Cloud
+## DevOps & Cloud
 <p align="center">
-  <img src="./images/ext/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=docker,oracle&perline=15" alt="DevOps & Cloud" />
 </p>
 
-> ## Tools
+## Tools
 <p align="center">
-  <img src="./images/ext/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/ext/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=gitbash,github,gitlab,gitkraken,visualstudio,figma,postman,bruno,dbeaver,obsidian&perline=15" alt="Tools" />
 </p>
 
-> ## Operating Systems & Terminal
+## Operating Systems & Terminal
 <p align="center">
-  <img src="./images/ubuntu.png" alt="Ubuntu" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/garuda-purple.svg" alt="Garuda Linux" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/Manjaro-logo.svg.png" alt="Manjaro" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/Android_icon-icons.com_66772.webp" alt="Android" width="48" height="48" style="margin: 4px;" />
-  <img src="./images/Bash_Logo_Colored.svg.png" alt="Bash" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skills.syvixor.com/api/icons?i=linux,ubuntu,arch,android,bash&perline=15" alt="Operating Systems & Terminal" />
 </p>
 
 <p align="center">
